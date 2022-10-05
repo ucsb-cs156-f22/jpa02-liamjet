@@ -1,6 +1,6 @@
 # jpa02-liamjet
 
-Repo: https://ucsb-cs156-f22/jpa02-liamjet
+Repo: [https://ucsb-cs156-f22/jpa02-liamjet](https://github.com/ucsb-cs156-f22/jpa02-liamjet)
 
 On Heroku: https://jpa02-lpang-naylor.herokuapp.com/
 
